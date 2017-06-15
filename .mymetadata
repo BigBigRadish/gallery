@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="gallery"
+  id="myeclipse.1377251090840"
+  context-root="/gallery"
+  j2ee-spec="6.0"
+  archive="gallery.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
